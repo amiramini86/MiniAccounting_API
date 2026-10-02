@@ -1,0 +1,26 @@
+
+# .NET build output
+**/bin/
+**/obj/
+
+# IDE files
+.idea/
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+appsettings.Development.json
+
+# Test results
+TestResults/
+coverage/
+
+# macOS
+.DS_Store
