@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MiniAccounting.Api/MiniAccounting.Api.csproj" />
+    <Project Path="src/MiniAccounting.Application/MiniAccounting.Application.csproj" />
+    <Project Path="src/MiniAccounting.Domain/MiniAccounting.Domain.csproj" />
+    <Project Path="src/MiniAccounting.Infrastructure/MiniAccounting.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MiniAccounting.IntegrationTests/MiniAccounting.IntegrationTests.csproj" />
+    <Project Path="tests/MiniAccounting.UnitTests/MiniAccounting.UnitTests.csproj" />
+  </Folder>
+</Solution>

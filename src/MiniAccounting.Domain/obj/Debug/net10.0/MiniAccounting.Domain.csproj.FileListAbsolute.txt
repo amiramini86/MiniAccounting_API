@@ -1,0 +1,11 @@
+/Users/amir/Desktop/dotnet/MiniAccounting/src/MiniAccounting.Domain/bin/Debug/net10.0/MiniAccounting.Domain.deps.json
+/Users/amir/Desktop/dotnet/MiniAccounting/src/MiniAccounting.Domain/bin/Debug/net10.0/MiniAccounting.Domain.dll
+/Users/amir/Desktop/dotnet/MiniAccounting/src/MiniAccounting.Domain/bin/Debug/net10.0/MiniAccounting.Domain.pdb
+/Users/amir/Desktop/dotnet/MiniAccounting/src/MiniAccounting.Domain/obj/Debug/net10.0/MiniAccounting.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amir/Desktop/dotnet/MiniAccounting/src/MiniAccounting.Domain/obj/Debug/net10.0/MiniAccounting.Domain.AssemblyInfoInputs.cache
+/Users/amir/Desktop/dotnet/MiniAccounting/src/MiniAccounting.Domain/obj/Debug/net10.0/MiniAccounting.Domain.AssemblyInfo.cs
+/Users/amir/Desktop/dotnet/MiniAccounting/src/MiniAccounting.Domain/obj/Debug/net10.0/MiniAccounting.Domain.csproj.CoreCompileInputs.cache
+/Users/amir/Desktop/dotnet/MiniAccounting/src/MiniAccounting.Domain/obj/Debug/net10.0/MiniAccounting.Domain.dll
+/Users/amir/Desktop/dotnet/MiniAccounting/src/MiniAccounting.Domain/obj/Debug/net10.0/refint/MiniAccounting.Domain.dll
+/Users/amir/Desktop/dotnet/MiniAccounting/src/MiniAccounting.Domain/obj/Debug/net10.0/MiniAccounting.Domain.pdb
+/Users/amir/Desktop/dotnet/MiniAccounting/src/MiniAccounting.Domain/obj/Debug/net10.0/ref/MiniAccounting.Domain.dll

@@ -1,0 +1,29 @@
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: src/MiniAccounting.Api/Dockerfile
+    container_name: mini-accounting-api
+    ports:
+      - "5282:8080"
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStrings__DefaultConnection: "Server=sqlserver,1433;Database=MiniAccountingDb;User Id=sa;Password=${SA_PASSWORD};TrustServerCertificate=True"
+    depends_on:
+      - sqlserver
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: mini-accounting-sqlserver
+    platform: linux/amd64
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: "${SA_PASSWORD}"
+    ports:
+      - "1433:1433"
+    volumes:
+      - mini-accounting-sql-data:/var/opt/mssql
+
+volumes:
+  mini-accounting-sql-data:

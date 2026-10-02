@@ -1,0 +1,6 @@
+{
+  "MiniAccounting.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/amir\/Desktop\/dotnet\/MiniAccounting\/src\/MiniAccounting.Api",
+  "MiniAccounting.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/amir\/Desktop\/dotnet\/MiniAccounting\/src\/MiniAccounting.Application",
+  "MiniAccounting.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/amir\/Desktop\/dotnet\/MiniAccounting\/src\/MiniAccounting.Domain",
+  "MiniAccounting.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/amir\/Desktop\/dotnet\/MiniAccounting\/src\/MiniAccounting.Infrastructure"
+}
